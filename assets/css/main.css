@@ -38,9 +38,9 @@ body {
 	line-height: 1;
 }
 
-/* iframe {
+iframe {
 	height: 100% !important;
-} */
+}
 
 ol, ul {
 	list-style: none;
